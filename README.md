@@ -1,4 +1,4 @@
-# Ros2_Frontier_Detector
+# ROS2_Frontier_Detector
 ![target-with-frontiers-3](https://github.com/jiangjingxue/ROS2_Frontier_Detection/assets/119235879/142cf165-d48d-4113-b025-9a710dacced0)
 ## Usage
 Include `frontier_detector.h` header in your file:
