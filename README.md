@@ -1,5 +1,5 @@
 # Ros2_Frontier_Detector
-![target-with-frontiers](https://github.com/jiangjingxue/ROS2_Frontier_Detection/assets/119235879/f2a2b779-ba98-4f9c-b666-b6379e9c367f)
+![target-with-frontiers-2](https://github.com/jiangjingxue/ROS2_Frontier_Detection/assets/119235879/309635bc-b3f9-4cfb-a593-0da2f09e1cd0)
 ## Usage
 Include `frontier_detector.h` header in your file:
 ```
